@@ -1,0 +1,16 @@
+# Ham veri depoya eklenmez (README'deki talimatlara bakın)
+data/*
+!data/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
